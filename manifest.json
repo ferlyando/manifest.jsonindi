@@ -1,0 +1,38 @@
+{
+  "name": "Indi Manado",
+  "short_name": "IndiManado",
+  "start_url": "https://indimanado.com/",
+  "display": "black",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "description": "Indi Manado - Media Independen",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-8HLqtbhyogQ/Xjsw0hxrKRI/AAAAAAAAFcw/G8-tvBRu_nQtY-AUCXKddoawrlqC-saTQCLcBGAsYHQ/s1600/logo-indi-manado-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MDhnv7tLsUQ/Xjswy9Y1B4I/AAAAAAAAFcs/83WAfL7pRTIZs2JRhMJVyoonnKpkqaQeQCLcBGAsYHQ/s1600/logo-indi-manado-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-F5JlCWBViYw/XjswxQ2PFnI/AAAAAAAAFco/c5Jku_SYJJg52-Y7_LF1y-mQRBcqY6wjACLcBGAsYHQ/s1600/logo-indi-manado-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-41rGgGGMJ7k/XjswwMpPpfI/AAAAAAAAFck/htB-5LYw_fUT1TPXYgTB0xULXkUwqznYgCLcBGAsYHQ/s1600/logo-indi-manado-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hZ1s1lvkty8/XjswuveF9_I/AAAAAAAAFcg/P9bqCi_J6mIATplxBbLheRM4Tuz5sm4QACLcBGAsYHQ/s1600/logo-indi-manado-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bx5EN7BtQyc/XjswtVnF2II/AAAAAAAAFcc/5xZEWvlXu6g5E7JAnvQGPHxVu7flT6itgCLcBGAsYHQ/s1600/logo-indi-manado-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--F7kiIBPdgg/Xjsxu7oV0LI/AAAAAAAAFdQ/Uqnmo7JFXCseUuPQgQIYMGkjqrF_gj8cACLcBGAsYHQ/s1600/logo-indi-manado-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
